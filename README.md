@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SoniaPou
 - 👀 I’m interested in REACT and UX/UI Design.
-- 🌱 I’m currently learning REACT.
+- 🌱 I’m currently learning REACT! Oh, yeah!
 
 <!---
 SoniaPou/SoniaPou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
